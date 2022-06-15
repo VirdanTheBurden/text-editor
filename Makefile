@@ -1,2 +1,2 @@
 lulu: main.c
-	$(CC) main.c -o lulu -Wall -Wextra -pedantic -std=c99
+	$(CC) main.c -o build/lulu -Wall -Wextra -pedantic -std=c99
